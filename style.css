@@ -1,0 +1,23 @@
+*{
+  background-color: navy;
+  
+}
+
+table{
+  margin: auto auto;
+  border: white 3px solid;
+}
+
+tr, td{
+  text-align: center;
+  padding: 5px;
+  border: white 3px solid;
+}
+
+
+h1{
+  position: relative;
+  text-align: center;
+  //overflow: scroll;
+  background-color: rgba(100,0,75,.25)
+}
